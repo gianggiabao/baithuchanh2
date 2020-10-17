@@ -1,0 +1,13 @@
+D:\Bài thực hành\BTH2\BTH2\bin\Debug\netcoreapp3.1\BTH2.exe
+D:\Bài thực hành\BTH2\BTH2\bin\Debug\netcoreapp3.1\BTH2.deps.json
+D:\Bài thực hành\BTH2\BTH2\bin\Debug\netcoreapp3.1\BTH2.runtimeconfig.json
+D:\Bài thực hành\BTH2\BTH2\bin\Debug\netcoreapp3.1\BTH2.runtimeconfig.dev.json
+D:\Bài thực hành\BTH2\BTH2\bin\Debug\netcoreapp3.1\BTH2.dll
+D:\Bài thực hành\BTH2\BTH2\bin\Debug\netcoreapp3.1\BTH2.pdb
+D:\Bài thực hành\BTH2\BTH2\obj\Debug\netcoreapp3.1\BTH2.csprojAssemblyReference.cache
+D:\Bài thực hành\BTH2\BTH2\obj\Debug\netcoreapp3.1\BTH2.csproj.CoreCompileInputs.cache
+D:\Bài thực hành\BTH2\BTH2\obj\Debug\netcoreapp3.1\BTH2.AssemblyInfoInputs.cache
+D:\Bài thực hành\BTH2\BTH2\obj\Debug\netcoreapp3.1\BTH2.AssemblyInfo.cs
+D:\Bài thực hành\BTH2\BTH2\obj\Debug\netcoreapp3.1\BTH2.dll
+D:\Bài thực hành\BTH2\BTH2\obj\Debug\netcoreapp3.1\BTH2.pdb
+D:\Bài thực hành\BTH2\BTH2\obj\Debug\netcoreapp3.1\BTH2.genruntimeconfig.cache
